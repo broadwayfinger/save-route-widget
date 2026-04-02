@@ -1,0 +1,18 @@
+{
+  "name": "save-route",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.20.0",
+  "label": "Save Route to Field Map",
+  "description": "Saves optimized route line and ordered stop list to hosted feature layers",
+  "author": "Your Organization",
+  "defaultSize": {
+    "width": 220,
+    "height": 80
+  },
+  "useDataSources": true,
+  "properties": {
+    "hasConfig": false,
+    "hasSettingPage": false
+  }
+}
